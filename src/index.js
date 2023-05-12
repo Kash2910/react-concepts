@@ -1,4 +1,6 @@
-import React from 'react';
+/* `import React from 'react';` is importing the React library into the current file. This allows the
+use of React components and other features provided by the library. */
+ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
